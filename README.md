@@ -58,4 +58,4 @@ commands/ → Task automation modules
 
 ## Author
 
-Vishu – BTech Student | Python Developer
+Nishant Chauhan – BTech Student | Python Developer
