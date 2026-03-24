@@ -24,7 +24,7 @@ It can listen to voice commands, speak responses, and automate tasks.
 
 1. Clone repository
 
-git clone https://github.com/yourusername/jarvis-ai.git
+git clone https://github.com/Clipperai/Mini-Jarvis-ai.git
 
 2. Install dependencies
 
