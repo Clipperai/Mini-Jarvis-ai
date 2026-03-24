@@ -1,6 +1,7 @@
 # JARVIS AI - Python Voice Assistant
 
 A Python-based voice assistant inspired by Tony Stark's JARVIS.  
+It automates tasks like WhatsApp messaging, web search, and system control.
 It can listen to voice commands, speak responses, and automate tasks.
 
 ## Features
