@@ -1,3 +1,4 @@
+⭐ If you like this project, give it a star!
 # JARVIS AI - Python Voice Assistant
 
 A Python-based voice assistant inspired by Tony Stark's JARVIS.  
